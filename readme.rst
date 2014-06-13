@@ -19,7 +19,7 @@ Equipment
 For producing AC current:
 
 * `AXA HR Traction`_
-* Shimano Dynamo Hub (Not Yet Received)
+* `Shimano Alfine Dynamo Hub (DH-S501)`_
 
 For converting the AC current into DC:
 
@@ -66,3 +66,4 @@ Further Research
 .. _AXA HR Traction: http://www.axa-stenman.com/en/bicycle-components/lighting/dynamos/hr-traction/
 .. _Lightcharge: http://www.bike2power.com/lightcharge-bicycle-hub-usb-charger.html
 .. _B&M E-WERK: http://www.peterwhitecycles.com/ewerk.asp
+.. _Shimano Alfine Dynamo Hub (DH-S501): http://bike.shimano.com.sg/publish/content/global_cycle/en/sg/index/products/city___comfort_bike/alfine/product.-code-DH-S501.-type-..html
