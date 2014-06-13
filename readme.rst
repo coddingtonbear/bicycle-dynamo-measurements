@@ -9,7 +9,7 @@ like to see what the differences are between each device.
 
 Until now, I've been relying upon an `AXA HR Traction`_ coupled with a
 `Lightcharge`_ for producing DC power (via USB) while touring, but
-wanting to do a little more touring, I've began the process of upgrading
+wanting to do a little more touring, I've begun the process of upgrading
 to instead use a `Shimano Alfine Dynamo Hub (DH-S501)`_ coupled with a
 `B&M E-WERK`_.
 
